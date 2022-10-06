@@ -1,0 +1,49 @@
+Overview:
+        General idea and working
+        Do It Yourself x / codeAlong
+        understanding and installing bulma
+        making visual content 
+        contecting with script 
+
+The Frontend Design
+        card
+            img
+            p sentence note
+            content
+                score
+                playing upto selection input
+                setp1 setp2 reset buttons
+
+
+
+
+
+
+
+
+
+
+
+
+
+Video Lecture
+Part-1:     
+       x        [after I'm done making it myself]
+
+part-2:
+        x        resetButton logic 
+         x       select-options input winningScore 
+          x      reset call in select logic
+        x        colors to winner and loser
+         x       reset color
+
+part-3:
+        x        bulma css
+         x       card
+
+part-4: (refactoring)
+
+                reduce p1 p2 seperation in code repetition
+                object of all p1 and p2 related variables
+                make a single generic fuction for updating players
+                update reset
